@@ -1,15 +1,20 @@
-# Satélite - Secure Network Simulator
+## 🔒 Módulo: Administración de Seguridad en Redes v1.7
 
-Este es un simulador de arquitectura de redes diseñado para probar la eficiencia en la transmisión de paquetes de datos mediante **flujos binarios**.
+Este repositorio contiene el núcleo del protocolo **SPARK**, diseñado para la gestión y auditoría de comunicaciones seguras mediante scripts optimizados en Python.
 
-### Características principales:
-*   **Optimización Binaria:** Los paquetes se convierten a binario para reducir el peso y aumentar la velocidad de transmisión satelital.
-*   **Seguridad Multicapa:** Implementación de compresión, cifrado extremo a extremo (E2EE) y ofuscación de IP.
-*   **Simulación de Distancia:** Cálculo de latencia basado en la distancia al satélite.
+### 🛠️ Especificaciones Técnicas
+*   **Cifrado de Extremo a Extremo:** Implementación de algoritmos de transposición y sustitución para asegurar la integridad de los paquetes.
+*   **Gestión de Terminal:** Interfaz de bajo consumo diseñada para entornos móviles (Pydroid 3) y sistemas basados en Unix (Termux).
+*   **Protocolo de Verificación:** Módulos de envío y recepción con validación de hash para evitar la interceptación de datos.
 
 ---
-⚠️ **AVISO EDUCATIVO (DISCLAIMER)**
-Este software ha sido creado exclusivamente con fines **educativos y de investigación**. 
-El autor no se responsabiliza por el mal uso, daños o actividades ilícitas que terceros 
-puedan realizar con este código. El objetivo es estudiar la vulnerabilidad y la 
-eficiencia de las redes, no vulnerar sistemas ajenos.
+
+### 🤝 Colaboraciones y Contribuciones
+¡Este proyecto es de código abierto y está en constante evolución! Si te apasiona la ciberseguridad, podés sumar tu chispa:
+
+*   **Auditores:** Si encontrás vulnerabilidades en la lógica de cifrado, abrí un **Issue**.
+*   **Desarrolladores:** Los **Pull Requests** para optimizar el rendimiento en sistemas de bajos recursos son bienvenidos.
+*   **UI/UX:** Mejoras en la presentación visual ASCII para la versión 1.8.
+
+> "La seguridad no es un producto, es un proceso colaborativo." ⚡
+> 
