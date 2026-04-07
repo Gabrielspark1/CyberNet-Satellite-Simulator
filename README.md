@@ -1,3 +1,27 @@
+# 🛡️ Perfil de Seguridad - Gabriel Spark
+
+          .              .
+         / ;            ; \
+       . : :          : : .
+     . : : :  __________  : : : .
+    . : : : /          \ : : : .
+   . : : : |    /  /    | : : : .
+  . : : : |    /  /     | : : : .
+  . : : : |   /  /___   | : : : .
+  . : : : |  /  ____/   | : : : .
+   . : : : |     /  /    | : : : .
+    . : : : |    /  /     | : : : .
+     . : : : \  /__/     / : : : .
+       . : : : \________/ : : : .
+         . : :          : : .
+          . ;            ; .
+             \          /
+
+      [ G A B R I E L   S P A R K ]
+      [  SECURITY PROTOCOL v1.7  ]
+
+---
+
 ## 🔒 Módulo: Administración de Seguridad en Redes v1.7
 
 Este repositorio contiene el núcleo del protocolo **SPARK**, diseñado para la gestión y auditoría de comunicaciones seguras mediante scripts optimizados en Python.
